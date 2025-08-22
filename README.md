@@ -57,3 +57,22 @@
                     ¬ settings.json
             - README.md
             ```
+        * You can leave those files/folders be
+
+    - # Accessing Your Git Repo:
+        * For those who are new to git, you can access your repos a few different ways, locally or via codespaces, i recommend locally
+            - ## Locally:
+                - Install GIT [Here](https://git-scm.com/downloads)
+                - Install Github Desktop [Here](https://desktop.github.com/download/)
+                - Login to Github Desktop
+                - Clone Your Repo
+                - Edit in your IDE (VSCode is easiest)
+                - SAVE YOUR FILES 
+                - Return to GitHub Desktop and in the bottom left write a message and commit
+                - Now click the Push Button
+                - DoNe
+
+# For any issues email me 
+```
+charly@awsbuddies.co.uk
+```
